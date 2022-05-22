@@ -6,7 +6,7 @@
 
 ## About Me✨
 ## Language & Tools🔗
-<table align="left"><tr><td valign="top" width="33%" align="center">
+<table align="center"><tr><td valign="top" width="33%" align="center">
 
 ### Frontend  
 <div align="center">  
@@ -35,16 +35,15 @@
 
 </td></tr></table>  
 
-<div>
+<div align=center>
   
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhmdmnsouri&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhmdmnsouri&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  
 </div>
-
-<br> 
-
+ 
 ## Stats⚡
-<div align="left">
+
+<div align="center">
   
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mhmdmnsouri&theme=chartreuse-dark&show_icons=true)
    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mhmdmnsouri&theme=chartreuse-dark)](https://git.io/streak-stats)
