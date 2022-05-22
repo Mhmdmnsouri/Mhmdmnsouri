@@ -1,23 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&size=25&duration=4500&color=DE00E9&lines=Welcome+to+my+profile;I'm+Mohamad+%E3%83%84;Iranian+Front-end+Developer;Computer+Science+student;I+hope+u+like+my+repos💕)](https://git.io/typing-svg)
 ## About Me✨
 ## Language & Tools🔗
-<table><tr><td valign="top" width="33%">
-
-
+<table align="center"><tr><td valign="top" width="33%" align="center">
 
 ### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
-
-
+</td><td valign="top" width="33%" align="center">
 
 ### Backend  
 <div align="center">  
@@ -25,9 +21,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
-
-
+</td><td valign="top" width="33%" align="center">
 
 ### DevOps  
 <div align="center">  
@@ -36,11 +30,26 @@
 
 </td></tr></table>  
 
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhmdmnsouri&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  
+</div>
+
 <br> 
 
 ## Stats⚡
+<div align="center">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mhmdmnsouri&theme=chartreuse-dark&show_icons=true)
+  
+</div>
+
+<div align="center">
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mhmdmnsouri&theme=chartreuse-dark)](https://git.io/streak-stats)
+  
+</div>
 
 <br> 
 
