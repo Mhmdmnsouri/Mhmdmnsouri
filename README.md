@@ -1,4 +1,4 @@
-<div align ="center" vertical-align = middle>
+<div align ="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&size=25&duration=4500&color=DE00E9&lines=Welcome+to+my+profile;I'm+Mohamad+Shahmansouri+%E3%83%84;Iranian+Front-end+Developer;Computer+Science+student;I+hope+u+like+my+repos💕)](https://git.io/typing-svg)
   
@@ -18,7 +18,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="40" />  
 </div>
 
-</td><td valign="top" width="20%" align="center">
+</td><td valign="top" width="30%" align="center">
 
 ### Backend  
 <div align="center">  
@@ -37,7 +37,7 @@
 
 <div>
   
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhmdmnsouri&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhmdmnsouri&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 
 </div>
 
