@@ -45,7 +45,6 @@
 
 <div align="center">
   
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mhmdmnsouri&theme=chartreuse-dark&show_icons=true)
    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mhmdmnsouri&theme=chartreuse-dark)](https://git.io/streak-stats)
   
 </div>
