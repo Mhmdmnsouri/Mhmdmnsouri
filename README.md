@@ -1,10 +1,10 @@
 <div align ="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&size=25&duration=4500&color=DE00E9&lines=Welcome+to+my+profile;I'm+Mohamad+Shahmansouri+%E3%83%84;Iranian+Front-end+Developer;Computer+Science+student;I+hope+u+like+my+repos💕)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&size=25&duration=4500&color=f8f7ed&lines=Welcome+to+my+profile;I'm+Mohamad+Shahmansouri+%E3%83%84;Iranian+Front-end+Developer;Computer+Science+student;I+hope+u+like+my+repos💕)](https://git.io/typing-svg)
   
 </div>
 
-## About Me✨
+## About Me💫
 ## Language & Tools🔗
 <table align="center"><tr><td valign="top" width="33%" align="center">
 
@@ -67,6 +67,7 @@
 
 <div align=center>
 
-![github-user-contribution](https://user-images.githubusercontent.com/97861491/169695284-25a1b281-12c7-4720-b60d-6e7bb05da14d.svg)
+ ![github-user-contribution (1)](https://user-images.githubusercontent.com/97861491/171216843-3ace5e2b-1297-4cc9-9314-6173b3bd2d39.svg)
+
 
 </div>
