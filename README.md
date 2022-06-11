@@ -5,6 +5,15 @@
 </div>
 
 ## About Me💫
+<div align="center">
+<p>Hi Buddy ツ<br> I'm Mohamad Shahmansouri, student of Computer Science at SRBIAU University.<br>Currently working in the  Front-end field, also interested in Cryptocurrency and Blockchain Technology.<br> I really love creating new works. I was always looking for a job where I could create anything I wanted<br>without any restrictions, and Programing is one of those jobs :)<br>
+Programmers are the Gods of their tiny worlds. They create something out of nothing.<br>In their command-line universe, they say when it’s sunny and when it rains. And the tiny universe complies.<br>
+If you want to be a tiny God too, then why u not start coding?!</p>
+
+  ![coding-is-an-art](https://user-images.githubusercontent.com/97861491/173185309-7915d3bc-0f85-4b0a-86d9-df8e272902c5.gif)  
+  
+</div>
+
 ## Language & Tools🔗
 <table align="center"><tr><td valign="top" width="33%" align="center">
 
