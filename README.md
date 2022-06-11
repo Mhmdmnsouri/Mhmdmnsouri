@@ -6,7 +6,7 @@
 
 ## About Me💫
 <div align="center">
-<p>Hi Buddy ツ<br> I'm Mohamad Shahmansouri, student of Computer Science at SRBIAU University.<br>Currently working in the  Front-end field, also interested in Cryptocurrency and Blockchain Technology.<br> I really love creating new works. I was always looking for a job where I could create anything I wanted<br>without any restrictions, and Programing is one of those jobs :)<br>
+<p>Hi Buddy ツ<br> I'm Mohamad Shahmansouri, student of Computer Science at SRBIAU University.<br>Currently working in the  Front-end field, also interested in Cryptocurrency and Blockchain Technology.<br> I really love creating new works. I was always looking for a job where I could create anything I wanted<br>without any restrictions, and Programming is one of those jobs :)<br>
 Programmers are the Gods of their tiny worlds. They create something out of nothing.<br>In their command-line universe, they say when it’s sunny and when it rains. And the tiny universe complies.<br>
 If you want to be a tiny God too, then why u not start coding?!</p>
 
