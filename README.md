@@ -27,7 +27,7 @@ If you want to be a tiny God too, then why u not start coding?!</p>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="40" />  
 </div>
 
-</td><td valign="top" width="30%" align="center">
+<td valign="top" width="30%" align="center">
 
 ### Backend  
 <div align="center">  
@@ -35,19 +35,21 @@ If you want to be a tiny God too, then why u not start coding?!</p>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="45" />  
 </div>
 
-</td><td valign="top" width="18%" align="center">
+</td>
+<td valign="top" width="18%" align="center">
 
 ### DevOps  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </div>
 
-</td></tr></table>  
+</td>
+</tr>
+</table>  
 
 <div align=center>
   
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhmdmnsouri&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-  
   
 </div>
  
