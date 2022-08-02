@@ -44,9 +44,10 @@ If you want to be a tiny God too, then why u not start coding?!</p>
 
 </td></tr></table>  
 
-<div align=center>
+<div align=centert>
   
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhmdmnsouri&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhmdmnsouri&layout=compact&langs_count=7&theme=chartreuse-red"/>
+  
   
 </div>
  
