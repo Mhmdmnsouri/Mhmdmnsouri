@@ -151,19 +151,18 @@ If you want to be a tiny God too, then why u not start coding?!</p>
   </tr>
  <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Snapp Clone</h3>
+      <h3 align="center">Crypto News</h3>
         <br />
-        <a target="_blank" href="https://snapp-mhmdmnsouri.netlify.app/">
-            <img src="https://github.com/Mhmdmnsouri/Mhmdmnsouri/blob/main/Portfolio/SnappClone.png" width="100%" alt="Snapp Clone Website"/>
+        <a target="_blank" href="https://mhmdmnsouri.github.io/CryptoNews/">
+            <img src="https://github.com/Mhmdmnsouri/Mhmdmnsouri/blob/main/Portfolio/CryptoNews.png" width="100%" alt="Snapp Clone Website"/>
         </a>
         <br />
-        <p><strong>This is a Snapp (snapp.ir) clone Website.</strong></p>
+        <p><strong>A Cryptocurrency News Website Template built in HTML CSS and a little JS (Responsive)</strong></p>
       <p align="left">
         <strong> Technologies used </strong>
         <br/>
         <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-        <a href="https://www.w3schools.com/sass/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
       </p>
       <p align="left">
         <strong> IDE used </strong>
@@ -172,22 +171,22 @@ If you want to be a tiny God too, then why u not start coding?!</p>
       </p>
       <p align="center">
           
-  <a href="https://github.com/Mhmdmnsouri/SnappClone" target="_blank">
+  <a href="https://github.com/Mhmdmnsouri/CryptoNews" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=05F718&style=plastic&logo=github&logoColor=white"/>
   </a>  
-  <a href="https://snapp-mhmdmnsouri.netlify.app/" target="_blank">
+  <a href="https://mhmdmnsouri.github.io/CryptoNews/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=orange&style=plastic&logo=Google-chrome&logoColor=white"/>
   </a>
       </p>
     </td>
      <td width="50%" valign="top">
-      <h3 align="center">Travelo</h3>
+      <h3 align="center">Login Form</h3>
         <br />
-        <a target="_blank" href="https://travelo-mhmdmnsouri.netlify.app/">
-            <img src="https://github.com/Mhmdmnsouri/Mhmdmnsouri/blob/main/Portfolio/Travelo.png" width="100%" alt="Snapp Clone Website"/>
+        <a target="_blank" href="https://loginform-mhmdmnsouri.netlify.app/">
+            <img src="https://github.com/Mhmdmnsouri/Mhmdmnsouri/blob/main/Portfolio/LoginForm.png" width="100%" alt="Snapp Clone Website"/>
         </a>
         <br />
-        <p><strong>Website that gives people best places for trip in 2022 :)</strong></p>
+        <p><strong>Login form created using Html & Css (Responsive)</strong></p>
       <p align="left">
         <strong> Technologies used </strong>
         <br/>
@@ -201,10 +200,10 @@ If you want to be a tiny God too, then why u not start coding?!</p>
       </p>
       <p align="center">
           
-  <a href="https://github.com/Mhmdmnsouri/Travelo" target="_blank">
+  <a href="https://github.com/Mhmdmnsouri/LoginForm" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=05F718&style=plastic&logo=github&logoColor=white"/>
   </a>  
-  <a href="https://travelo-mhmdmnsouri.netlify.app/" target="_blank">
+  <a href="https://loginform-mhmdmnsouri.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=orange&style=plastic&logo=Google-chrome&logoColor=white"/>
   </a>
       </p>
