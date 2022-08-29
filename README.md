@@ -34,8 +34,8 @@ If you want to be a tiny God too, then why u not start coding?!</p>
 
 <div align=center>
   
-<!-- <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhmdmnsouri&layout=compact&langs_count=7&theme=chartreuse-dark"/> -->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mhmdmnsouri&layout=compact&theme=chartreuse-white)](https://github.com/anuraghazra/github-readme-stats)
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhmdmnsouri&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mhmdmnsouri&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats) -->
   
 </div>
  
