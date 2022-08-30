@@ -14,7 +14,7 @@ If you want to be a tiny God too, then why u not start coding?!</p>
   
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mhmdmnsouri&label=Profile%20views&color=0e75b6&style=flat" alt="Mhmdmnsouri" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mhmdmnsouri&label=Profile%20Views&color=blueviolet&style=flat" alt="Mhmdmnsouri" /> </p>
 
 ## Language & Tools🔗
 <table align="center"><tr><td valign="middle" width="33%" align="center">
