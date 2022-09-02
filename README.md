@@ -65,7 +65,7 @@ If you want to be a tiny God too, then why u not start coding?!</p>
 
 <div align=center>
 
-![github-user-contribution (2)](https://user-images.githubusercontent.com/97861491/183513171-3ca00d64-e445-4fc1-9c75-f84e63567137.svg)
+![github-user-contribution (3)](https://user-images.githubusercontent.com/97861491/188183910-52509039-a928-4a9a-80bb-e4e4d6f06ead.svg)
 
 </div>
 
