@@ -71,7 +71,6 @@ If you want to be a tiny God too, then why u not start coding?!</p>
 
 ## Projects🦖
 <table>
-  
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Snapp Clone</h3>
@@ -86,6 +85,7 @@ If you want to be a tiny God too, then why u not start coding?!</p>
         <br/>
         <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+        <a href="https://www.w3schools.com/javascript/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javaScript" width="35" height="35"/> </a>
         <a href="https://www.w3schools.com/sass/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
       </p>
       <p align="left">
