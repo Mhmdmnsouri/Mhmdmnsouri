@@ -193,8 +193,6 @@ If you want to be a tiny God too, then why u not start coding?!</p>
       </p>
     </td>
   </tr>
-
-
 <tr>
     <td width="50%" valign="top">
       <h3 align="center">Word Guess</h3>
@@ -209,7 +207,7 @@ If you want to be a tiny God too, then why u not start coding?!</p>
         <br/>
         <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-           <a href="https://www.w3schools.com/javascript/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+           <a href="https://www.w3schools.com/javascript/" target="_blank" rel="noreferrer"> <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="css3" width="35" height="35"/> </a>
       </p>
       <p align="left">
         <strong> IDE used </strong>
@@ -227,18 +225,19 @@ If you want to be a tiny God too, then why u not start coding?!</p>
       </p>
     </td>
      <td width="50%" valign="top">
-      <h3 align="center">Login Form</h3>
+      <h3 align="center">Birthday Countdown</h3>
         <br />
-        <a target="_blank" href="https://loginform-mhmdmnsouri.netlify.app/">
-            <img src="https://github.com/Mhmdmnsouri/Mhmdmnsouri/blob/main/Portfolio/LoginForm.png" width="100%" alt="Snapp Clone Website"/>
+        <a target="_blank" href="https://birthdaycountdown-mhmdmnsouri.netlify.app/">
+            <img src="https://github.com/Mhmdmnsouri/Mhmdmnsouri/blob/main/Portfolio/birthdayCountdown.png" width="100%" alt="Birthday Countdown"/>
         </a>
         <br />
-        <p><strong>Login form created using Html & Css (Responsive)</strong></p>
+        <p><strong>Simple Birthday Countdown Using JavaScript :)</strong></p>
       <p align="left">
         <strong> Technologies used </strong>
         <br/>
          <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+            <a href="https://www.w3schools.com/javascript/" target="_blank" rel="noreferrer"> <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="css3" width="35" height="35"/> </a>
       </p>
       <p align="left">
         <strong> IDE used </strong>
@@ -247,10 +246,10 @@ If you want to be a tiny God too, then why u not start coding?!</p>
       </p>
       <p align="center">
           
-  <a href="https://github.com/Mhmdmnsouri/LoginForm" target="_blank">
+  <a href="https://github.com/Mhmdmnsouri/birthday-coundown" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=05F718&style=plastic&logo=github&logoColor=white"/>
   </a>  
-  <a href="https://loginform-mhmdmnsouri.netlify.app/" target="_blank">
+  <a href="https://birthdaycountdown-mhmdmnsouri.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=orange&style=plastic&logo=Google-chrome&logoColor=white"/>
   </a>
       </p>
