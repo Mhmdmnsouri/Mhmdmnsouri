@@ -228,13 +228,13 @@ If you want to be a tiny God too, then why u not start coding?!</p>
       </p>
     </td>
      <td width="50%" valign="top">
-      <h3 align="center">Birthday Countdown</h3>
+      <h3 align="center">To-Do List</h3>
         <br />
-        <a target="_blank" href="https://birthdaycountdown-mhmdmnsouri.netlify.app/">
-            <img src="https://github.com/Mhmdmnsouri/Mhmdmnsouri/blob/main/Portfolio/birthdayCountdown.png" width="100%" alt="Birthday Countdown"/>
+        <a target="_blank" href="https://todolist-mhmdmnsouri.netlify.app/">
+            <img src="https://github.com/Mhmdmnsouri/Mhmdmnsouri/blob/main/Portfolio/toDoList.png" width="100%" alt="To-Do List"/>
         </a>
         <br />
-        <p><strong>Simple Birthday Countdown Using JavaScript :)</strong></p>
+        <p><strong>To-Do List project Using JavaScript :)</strong></p>
       <p align="left">
         <strong> Technologies used </strong>
         <br/>
@@ -250,7 +250,7 @@ If you want to be a tiny God too, then why u not start coding?!</p>
       </p>
       <p align="center">
   
-  <a href="https://github.com/Mhmdmnsouri/birthday-coundown" target="_blank">
+  <a href="https://github.com/Mhmdmnsouri/toDoList" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=05F718&style=plastic&logo=github&logoColor=white"/>
   </a>  
   <a href="https://birthdaycountdown-mhmdmnsouri.netlify.app/" target="_blank">
