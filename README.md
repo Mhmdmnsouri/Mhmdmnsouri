@@ -105,53 +105,21 @@ If you want to be a tiny God too, then why u not start coding?!</p>
   </a>
       </p>
     </td>
-     <td width="50%" valign="top">
-      <h3 align="center">To-Do List</h3>
-        <br />
-        <a target="_blank" href="https://todolist-mhmdmnsouri.netlify.app/">
-            <img src="https://github.com/Mhmdmnsouri/Mhmdmnsouri/blob/main/Portfolio/ToDoList.png" width="100%" alt="To-Do List"/>
-        </a>
-        <br />
-        <p><strong>To-Do List project Using JavaScript :)</strong></p>
-      <p align="left">
-        <strong> Technologies used </strong>
-        <br/>
-         <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-            <a href="https://www.w3schools.com/javascript/" target="_blank" rel="noreferrer"> <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="css3" width="35" height="35"/> </a>
-             <a href="https://www.w3schools.com/sass/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-      </p>
-      <p align="left">
-        <strong> IDE used </strong>
-        <br/>
-         <img src="https://img.shields.io/badge/VSCode-blueviolet?style=plastic&logo=visual%20studio%20code&logoColor=white">
-      </p>
-      <p align="center">
-  
-  <a href="https://github.com/Mhmdmnsouri/toDoList" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=05F718&style=plastic&logo=github&logoColor=white"/>
-  </a>  
-  <a href="https://todolist-mhmdmnsouri.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=orange&style=plastic&logo=Google-chrome&logoColor=white"/>
-  </a>
-      </p>
-    </td>
-  </tr>
-  
- <tr>
     <td width="50%" valign="top">
       <h3 align="center">Crypto News</h3>
         <br />
-        <a target="_blank" href="https://mhmdmnsouri.github.io/CryptoNews/">
-            <img src="https://github.com/Mhmdmnsouri/Mhmdmnsouri/blob/main/Portfolio/CryptoNews.png" width="100%" alt="Snapp Clone Website"/>
+        <a target="_blank" href="https://cryptonews-mhmdmnsouri.netlify.app/">
+            <img src="https://github.com/Mhmdmnsouri/Mhmdmnsouri/blob/main/Portfolio/CryptoNews.png" width="100%" alt="CryptoNews"/>
         </a>
         <br />
-        <p><strong>A Cryptocurrency News Website Template built in HTML CSS and a little JS (Responsive)</strong></p>
+        <p><strong>A Cryptocurrency Website Template built in HTML & CSS and JS (Responsive)</strong></p>
       <p align="left">
         <strong> Technologies used </strong>
         <br/>
         <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+        <a href="https://www.w3schools.com/javascript/" target="_blank" rel="noreferrer"> <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="css3" width="35" height="35"/> </a>
+         <a href="https://www.w3schools.com/sass/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
       </p>
       <p align="left">
         <strong> IDE used </strong>
@@ -163,12 +131,14 @@ If you want to be a tiny God too, then why u not start coding?!</p>
   <a href="https://github.com/Mhmdmnsouri/CryptoNews" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=05F718&style=plastic&logo=github&logoColor=white"/>
   </a>  
-  <a href="https://mhmdmnsouri.github.io/CryptoNews/" target="_blank">
+  <a href="https://cryptonews-mhmdmnsouri.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=orange&style=plastic&logo=Google-chrome&logoColor=white"/>
   </a>
       </p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+ <tr>
+     <td width="50%" valign="top">
       <h3 align="center">Word Guess</h3>
         <br />
         <a target="_blank" href="https://wordguess-mhmdmnsouri.netlify.app/">
@@ -195,6 +165,37 @@ If you want to be a tiny God too, then why u not start coding?!</p>
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=05F718&style=plastic&logo=github&logoColor=white"/>
   </a>  
   <a href="https://wordguess-mhmdmnsouri.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=orange&style=plastic&logo=Google-chrome&logoColor=white"/>
+  </a>
+      </p>
+    </td>
+<td width="50%" valign="top">
+      <h3 align="center">To-Do List</h3>
+        <br />
+        <a target="_blank" href="https://todolist-mhmdmnsouri.netlify.app/">
+            <img src="https://github.com/Mhmdmnsouri/Mhmdmnsouri/blob/main/Portfolio/ToDoList.png" width="100%" alt="To-Do List"/>
+        </a>
+        <br />
+        <p><strong>To-Do List project Using JavaScript :)</strong></p>
+      <p align="left">
+        <strong> Technologies used </strong>
+        <br/>
+         <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+            <a href="https://www.w3schools.com/javascript/" target="_blank" rel="noreferrer"> <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="css3" width="35" height="35"/> </a>
+             <a href="https://www.w3schools.com/sass/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+      </p>
+      <p align="left">
+        <strong> IDE used </strong>
+        <br/>
+         <img src="https://img.shields.io/badge/VSCode-blueviolet?style=plastic&logo=visual%20studio%20code&logoColor=white">
+      </p>
+      <p align="center">
+  
+  <a href="https://github.com/Mhmdmnsouri/toDoList" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=05F718&style=plastic&logo=github&logoColor=white"/>
+  </a>  
+  <a href="https://todolist-mhmdmnsouri.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=orange&style=plastic&logo=Google-chrome&logoColor=white"/>
   </a>
       </p>
@@ -229,31 +230,31 @@ If you want to be a tiny God too, then why u not start coding?!</p>
   </a>
       </p>
     </td>
-   <td width="50%" valign="top">
-      <h3 align="center">Login Form</h3>
+      <td width="50%" valign="top">
+      <h3 align="center">CryptoBit</h3>
         <br />
-        <a target="_blank" href="https://loginform-mhmdmnsouri.netlify.app/">
-            <img src="https://github.com/Mhmdmnsouri/Mhmdmnsouri/blob/main/Portfolio/LoginForm.png" width="100%" alt="Snapp Clone Website"/>
+        <a target="_blank" href="https://wordguess-mhmdmnsouri.netlify.app/">
+            <img src="https://github.com/Mhmdmnsouri/Mhmdmnsouri/blob/main/Portfolio/cryptobit.png" width="100%" alt="Word Guess game"/>
         </a>
         <br />
-        <p><strong>Login form created using Html & Css (Responsive)</strong></p>
+        <p><strong>A Cryptocurrency News Website Template built in HTML CSS and a little JS (Responsive)</strong></strong></p>
       <p align="left">
         <strong> Technologies used </strong>
         <br/>
-         <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+        <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
       </p>
       <p align="left">
         <strong> IDE used </strong>
         <br/>
-         <img src="https://img.shields.io/badge/VSCode-blueviolet?style=plastic&logo=visual%20studio%20code&logoColor=white">
+        <img src="https://img.shields.io/badge/VSCode-blueviolet?style=plastic&logo=visual%20studio%20code&logoColor=white">
       </p>
       <p align="center">
           
-  <a href="https://github.com/Mhmdmnsouri/LoginForm" target="_blank">
+  <a href="https://github.com/Mhmdmnsouri/cryptobit" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=05F718&style=plastic&logo=github&logoColor=white"/>
   </a>  
-  <a href="https://loginform-mhmdmnsouri.netlify.app/" target="_blank">
+  <a href="https://cryptobit-mhmdmnsouri.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=orange&style=plastic&logo=Google-chrome&logoColor=white"/>
   </a>
       </p>
