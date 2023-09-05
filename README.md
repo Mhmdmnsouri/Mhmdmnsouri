@@ -234,7 +234,7 @@ If you want to be a tiny God too, then why u not start coding?!</p>
       <h3 align="center">Weather Forecast</h3>
         <br />
         <a target="_blank" href="https://weatherforcast-mhmdmnsouri.netlify.app/">
-            <img src="https://github.com/Mhmdmnsouri/Mhmdmnsouri/blob/main/Portfolio/weather-forecast.png" width="100%" alt="Word Guess game"/>
+            <img src="https://github.com/Mhmdmnsouri/Mhmdmnsouri/blob/main/Portfolio/Weather-Forecast.png" width="100%" alt="Word Guess game"/>
         </a>
         <br />
         <p><strong>WeatherForecast app gives you information about cities</strong></strong></p>
