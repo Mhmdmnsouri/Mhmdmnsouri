@@ -131,7 +131,7 @@ If you want to be a tiny God too, then why u not start coding?!</p>
   <a href="https://github.com/Mhmdmnsouri/CryptoNews" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=05F718&style=plastic&logo=github&logoColor=white"/>
   </a>  
-  <a href="https://cryptonews-mhmdmnsouri.netlify.app/" target="_blank">
+  <a href="https://digibits-mhmdmnsouri.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=orange&style=plastic&logo=Google-chrome&logoColor=white"/>
   </a>
       </p>
