@@ -106,9 +106,9 @@ If you want to be a tiny God too, then why u not start coding?!</p>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Crypto News</h3>
+      <h3 align="center">DigiBits</h3>
         <br />
-        <a target="_blank" href="https://cryptonews-mhmdmnsouri.netlify.app/">
+        <a target="_blank" href="https://digibits-mhmdmnsouri.netlify.app/">
             <img src="https://github.com/Mhmdmnsouri/Mhmdmnsouri/blob/main/Portfolio/CryptoNews.png" width="100%" alt="CryptoNews"/>
         </a>
         <br />
