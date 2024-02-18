@@ -36,7 +36,7 @@ If you want to be a tiny God too, then why u not start coding?!</p>
 
 <div align=center>
   
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhmdmnsouri&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhmdmnsouri&layout=compact&langs_count=7&theme=chartreuse"/>
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mhmdmnsouri&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats) -->
   
 </div>
@@ -45,7 +45,7 @@ If you want to be a tiny God too, then why u not start coding?!</p>
 
 <div align="center">
   
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mhmdmnsouri&theme=chartreuse)](https://git.io/streak-stats)
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mhmdmnsouri&theme=chartreuse-dark)](https://git.io/streak-stats)
   
 </div>
 
