@@ -45,7 +45,7 @@ If you want to be a tiny God too, then why u not start coding?!</p>
 
 <div align="center">
   
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mhmdmnsouri&theme=chartreuse-dark)](https://git.io/streak-stats)
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mhmdmnsouri&theme=chartreuse)](https://git.io/streak-stats)
   
 </div>
 
