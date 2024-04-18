@@ -25,10 +25,13 @@ If you want to be a tiny God too, then why u not start coding?!</p>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuetify.svg" alt="Vue.js" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.svg" alt="Vue.js" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="45" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="43" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="43" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/npm-scm-icon.svg" alt="Git" height="43" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="python" height="42" />  
   
 
