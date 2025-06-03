@@ -6,9 +6,9 @@
 
 ## About Me💫
 <div align="center">
-<p>Hi Buddy ツ<br> I'm Mohamad Shahmansouri, student of Computer Science at SRBIAU University.<br>Currently working in the  Front-end field, also interested in Cryptocurrency and Blockchain Technology.<br> I really love creating new works. I was always looking for a job where I could create anything I wanted<br>without any restrictions, and Programming is one of those jobs :)<br>
-Programmers are the Gods of their tiny worlds. They create something out of nothing.<br>In their command-line universe, they say when it’s sunny and when it rains. And the tiny universe complies.<br>
-If you want to be a tiny God too, then why u not start coding?!</p>
+<p>Hi Buddy ツ<br> I'm Mohamad Shahmansouri — someone who’s totally into coding and all things tech! <br> If there’s a chance to  <code style="color : gold"><b>build something cool from scratch, count me in</code></b> — especially when it comes to <b>frontend.</b> <br> I love creating little digital worlds where I control everything — from how it looks to how it feels. <br> I'm also really into crypto and blockchain, and I’m always exploring new tools, frameworks, and ideas to level up my skills. <br>
+To me, programmers are like tiny gods of their own universes. <br> They write the rules, bring things to life, and decide when the sun shines or when it rains — and the code listens. <br>
+So hey, if that sounds like your kind of magic... <br> why not start coding today? 😉 </p>
 
   ![coding-is-an-art](https://user-images.githubusercontent.com/97861491/173185309-7915d3bc-0f85-4b0a-86d9-df8e272902c5.gif)  
   
@@ -36,9 +36,6 @@ If you want to be a tiny God too, then why u not start coding?!</p>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="python" height="42" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="42" />  
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="python" height="42" />  
-  
-
 </div>
 </td></tr></table>  
 
@@ -48,24 +45,16 @@ If you want to be a tiny God too, then why u not start coding?!</p>
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mhmdmnsouri&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats) -->
   
 </div>
- 
-## Stats⚡
-
-<div align="center">
-  
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mhmdmnsouri&theme=chartreuse-dark)](https://git.io/streak-stats)
-  
-</div>
 
 ## Contact With Me🕊
 <div align="center">
-  <a href ="mailto:Mhmdmnsourix@gmail.com">
+  <a href ="mailto:Shahmansouri.dev@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://linkedin.com/in/Mhmdmnsouri" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
-  <a href="https://instagram.com/Mhmdmnsourix" target="_blank">
+  <a href="https://instagram.com/Mhmdmnsourii" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   <a href="https://github.com/Mhmdmnsouri" target="_blank">
